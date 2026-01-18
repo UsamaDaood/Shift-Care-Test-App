@@ -37,7 +37,7 @@ IOS: https://drive.google.com/file/d/1uO7U6hYRhtimbzYLdwjLN_2S3XCGnzRo/view?usp=
 
 ### App Preview
 
-| Doctor List                      | Doctor Details                     | Date Selection            |
+| Doctor List                      | Doctor Details                     | Home Screen               |
 | -------------------------------- | ---------------------------------- | ------------------------- |
 | ![](screenshots/doctor-list.png) | ![](screenshots/doctor-detail.png) | ![](screenshots/home.png) |
 
