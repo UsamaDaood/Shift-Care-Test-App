@@ -56,16 +56,6 @@ IOS: https://drive.google.com/file/d/1uO7U6hYRhtimbzYLdwjLN_2S3XCGnzRo/view?usp=
 - **Material Icons**
 - **UUID**
 
----
-
-## Tech Stack
-
-- **React Native**
-- **TypeScript**
-- **Redux Toolkit**
-- **React Navigation (Native Stack)**
-- **Material Icons**
-- **UUID**
 
 ---
 
